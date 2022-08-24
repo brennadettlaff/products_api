@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-iac52jo+i!=)8jy%aal91!@w9zut)-%w(^(pe%6&zdr&4d+9s9
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'product_database',
+        'NAME': 'products_database',
         'HOST': 'localhost',
         'USER': 'root',
         'PASSWORD': 'password'
